@@ -1,7 +1,9 @@
 <HTML> 
 <HEAD> 
+<HTML>
+<HEAD> 
     <META CHARSET = "UTF-8"> 
-    <META NAME = "DESCRIPTION" CONTENT = "Strona o moim życiu i zainteresowaniach">
+    <META NAME = "DESCRIPTION" CONTENT = "Strona o mnie i moich zainteresowaniach">
     <META NAME = "KEYWORDS" CONTENT = "Taniec, Muzyka, Aktorstwo">
 <TITLE>Strona Główna</TITLE>
 </HEAD>
@@ -10,7 +12,8 @@
 <H1 style="text-align: center; color: white; background-color: pink;">TO JEST STRONA O MNIE</H1> <BR>
 Moje imię: Kasia<BR>
 Nazwisko: Kowalska<BR> 
-
+<HEAD><HTML> 
+    
 <TABLE> 
   <TR style="font size; 40px;">
   <TD><P>Coś o sobie muszę chyba napisać. Na pewno urodziłam się bo jestem tutaj, na Ziemi wśród nas.
