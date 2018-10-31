@@ -1,6 +1,9 @@
 <HTML> 
-<HEAD>
-<TITLE>Strona o mnie</TITLE>
+<HEAD> 
+    <META CHARSET = "UTF-8"> 
+    <META NAME = "DESCRIPTION" CONTENT = "STRONA O MOIM ŻYCIU">
+    <META NAME = "KEYWORDS" CONTENT = "JA, MOJE ZAINTERESOWANIA, PASJE">
+<TITLE>Strona Główna</TITLE>
 </HEAD>
 
 <BODY style="font-size: 35px;">
