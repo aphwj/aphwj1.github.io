@@ -1,8 +1,8 @@
 <HTML> 
 <HEAD> 
     <META CHARSET = "UTF-8"> 
-    <META NAME = "DESCRIPTION" CONTENT = "STRONA O MOIM ŻYCIU">
-    <META NAME = "KEYWORDS" CONTENT = "JA, MOJE ZAINTERESOWANIA, PASJE">
+    <META NAME = "DESCRIPTION" CONTENT = "Strona o moim życiu i zainteresowaniach">
+    <META NAME = "KEYWORDS" CONTENT = "Taniec, Muzyka, Aktorstwo">
 <TITLE>Strona Główna</TITLE>
 </HEAD>
 
